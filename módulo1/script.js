@@ -44,6 +44,3 @@ btnConfig.on('pointerdown', () => {
     alert('Você clicou em CONFIGURAÇÕES');
 });
 
-var leo = 'eai'
-
-
